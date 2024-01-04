@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.Page{
+text-align: center;
+padding: 5px;
+
+}
+.logo{
+    display: block;
+    margin: 0 auto;
+    width: 35%; /* Adjust the percentage as needed */
+}
+.image{
+
+    width: 200px;
+    height: 160px;
+}
+
+.allimg {
+    text-align: center;
+}
+
+.about{
+    text-align: center;
+}
+.span{
+    font-family: 'Pacifico', cursive;
+  
+  font-weight: bolder;
+}
